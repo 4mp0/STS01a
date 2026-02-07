@@ -1,0 +1,12 @@
+:root {
+  --main-bg: #1b1a1a;
+  --main-color: white;
+}
+
+body, html { 
+  background-color: var(--main-bg); 
+  color: var(--main-color);
+  height: 100vh;
+  margin: 0.5vh;
+  overflow-y: hidden;
+}
